@@ -1,4 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/yoavain/create-windowless-app/main/resources/docs/logo.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Alhalwagy</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 <img align="right" alt="coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
