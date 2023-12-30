@@ -34,7 +34,7 @@
 [![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)](https://github.com/alhalwagy)
 [![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)](https://github.com/alhalwagy)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/alhalwagy)](https://github.com/alhalwagy)
-[![Sequelize](https://sequelize.org/img/logo.svg?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/alhalwagy){:width="100px"}
+[![Sequelize](https://sequelize.org/img/logo.svg?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/alhalwagy){:width="10px"}
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/alhalwagy)
 [![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)](https://github.com/alhalwagy)
 
