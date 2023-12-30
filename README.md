@@ -37,7 +37,7 @@
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/alhalwagy)
 [![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)](https://github.com/alhalwagy)
 <a href="https://github.com/alhalwagy">
-  <img src="https://sequelize.org/img/logo.svg?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC" alt="Sequelize Logo" width="10">
+  <img src="https://sequelize.org/img/logo.svg?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC" alt="Sequelize Logo" width="40">
 </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alhalwagy&show_icons=true&locale=en&layout=compact" alt="alhalwagy" /></p>
