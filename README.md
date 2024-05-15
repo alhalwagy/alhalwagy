@@ -5,7 +5,7 @@
 
 - 🔭 I’m Graduated from **FCI - Menofia University**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Spring with Java**
 
 - 👯 I'm looking to gain experience in **various fields**
 
