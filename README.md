@@ -29,17 +29,6 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-##### Some of the technologies I have worked with
-
-[![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)](https://github.com/alhalwagy)
-[![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)](https://github.com/alhalwagy)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/alhalwagy)](https://github.com/alhalwagy)
-[![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/alhalwagy)
-[![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)](https://github.com/alhalwagy)
-<a href="https://github.com/alhalwagy">
-  <img src="https://sequelize.org/img/logo.svg?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC" alt="Sequelize Logo" width="40">
-</a>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alhalwagy&show_icons=true&locale=en&layout=compact" alt="alhalwagy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alhalwagy&show_icons=true&locale=en" alt="alhalwagy" /></p>
