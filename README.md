@@ -5,11 +5,12 @@
 
 - 🔭 I’m Graduated from **FCI - Menofia University**
 
-- 🌱 I’m currently learning **Spring with Java**
+- 🌱 I’m Currently Learning Backend Engineering and my main stack is **Java Spring Boot**
+  
+- 💼 Currently open for a new Internship or Job opportunities. Here's [my resume](https://drive.google.com/file/d/1hvQ1wIabOnvPnDiuwS0lx_Sg6IIgkSUf/view?usp=sharing).
 
-- 👯 I'm looking to gain experience in **various fields**
+  
 
-- 🤝 I’m looking for help from my colleagues **as I can**
 
 - :mailbox: You can reach me with the links below
 
