@@ -7,7 +7,7 @@
 
 - 🌱 I’m Currently Learning Backend Engineering and my main stack is **Java Spring Boot**
   
-- 💼 Currently open for a new Internship or Job opportunities. Here's [my resume](https://drive.google.com/file/d/1pNPqgcps10EtI9lno2l8A-XMiUVnuVkx/view).
+- 💼 Currently, I'm a Software Engineer @Fawry.
 
   
 
